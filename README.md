@@ -1,6 +1,6 @@
 # Chat-Bot-Discord
 
-Code in branch master
+Code in master branch
 
 Simple discord chat bot, includes other commands
 
